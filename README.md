@@ -3,15 +3,19 @@
 
 <img align="right" src="[https://media.giphy.com/media/xTiTnA6KByRzAnnEwE/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NwZWVqaDFkOTQzdG4wN3U1aDMwdmJudnFleTdoY3hvcXdsaGt6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9D7dMTEskdstXHUOK2/giphy.gif)" width="300"/>
 
-I'm a Computational Mathematics graduate from the University of Waterloo who is passionate about solving difficult problems at the intersection of **software and mathematics robotics**. 
+I'm a Computational Mathematics graduate from the University of Waterloo who is passionate about solving difficult problems at the intersection of **software and mathematics**. 
 - Currently, I am developing a [Multiplayer Poker Game](https://github.com/jbellogo/Poker) as a full-stack project.
+- I have also started using [obsidian](https://obsidian.md/) to organize my math notes, check them out on my [quartz website].
 
 ### Past
-- I interned at [Versa Networks](https://versa-networks.com/) as a cloud developer working on webhook-based cybersecurity microserveses for SaaS providers as part of an API-based data protection cluster.
+- I interned at [Versa Networks](https://versa-networks.com/) as a cloud developer, working on webhook-based cybersecurity microservices for SaaS providers within an API-driven data protection cluster.  
+- I also interned at [Catalyst Technologies](https://catalystreaction.com/) as a backend developer, contributing to the integration of blockchain technologies in agriculture through carbon rebate calculations based on environmentally friendly farming practices.  
+- I worked at [SYMX.AI](https://symx.ai/), leveraging AWS technologies and communication protocols to integrate IoT functionality into mining drills, enhancing operator training and improving efficiency through data-driven cloud analytics.  
+
 
 ### Fun Facts
-- I absoluteley love martial arts. Recently, I have participated in 30+ [grappling competitions](https://smoothcomp.com/en/profile/769884). 
-- I work part time supporting people with mental disabilities at a non-profit organization called [L'Arche](https://larche.ca/).
+- I absolutely love martial arts and have recently participated in over 30 [grappling competitions](https://smoothcomp.com/en/profile/769884). 
+- I work part-time supporting people with mental disabilities at a non-profit organization called [L'Arche](https://larche.ca/).
 
 
 ### Connect with me 
@@ -29,8 +33,11 @@ I'm a Computational Mathematics graduate from the University of Waterloo who is 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="c++" width="25" height="25" />
+
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
+
 </p>
 
 <details>
