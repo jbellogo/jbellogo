@@ -8,8 +8,6 @@ I’m a **Computational Mathematics** graduate from the University of Waterloo, 
 - Currently developing a [Multiplayer Poker Game](https://github.com/jbellogo/Poker) as a full-stack project.  
 - Organizing my math notes with [Obsidian](https://obsidian.md/); you can check them out on my [quartz website].  
 
-
-Let me know if you'd like further tweaks!
 ### Past
 - I interned at [Versa Networks](https://versa-networks.com/) as a cloud developer, working on webhook-based cybersecurity microservices for SaaS providers within an API-driven data protection cluster.  
 - I also interned at [Catalyst Technologies](https://catalystreaction.com/) as a backend developer, contributing to the integration of blockchain technologies in agriculture through carbon rebate calculations based on environmentally friendly farming practices.  
