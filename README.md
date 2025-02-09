@@ -5,6 +5,8 @@
 
 
 I’m a **Computational Mathematics** graduate from the University of Waterloo, passionate about tackling challenging problems at the intersection of **software and mathematics**.  
+
+### Now:
 - Currently developing a [Multiplayer Poker Game](https://github.com/jbellogo/Poker) as a full-stack project.  
 - Organizing my math notes with [Obsidian](https://obsidian.md/); [quartz website] coming soon. 
 
