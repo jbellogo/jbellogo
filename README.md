@@ -4,7 +4,7 @@
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NwZWVqaDFkOTQzdG4wN3U1aDMwdmJudnFleTdoY3hvcXdsaGt6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9D7dMTEskdstXHUOK2/giphy.gif" width="300"/>
 
 
-I’m a **Mathematics** graduate from the University of Waterloo, passionate about tackling challenging problems at the intersection of **software and mathematics**.  
+I’m a **Computational Mathematics** graduate from the University of Waterloo, passionate about tackling challenging problems at the intersection of **software and mathematics**.  
 
 ### Now:
 - Currently developing a [Multiplayer Poker Game](https://github.com/jbellogo/Poker) as a full-stack project.  
