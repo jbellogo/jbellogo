@@ -20,12 +20,6 @@ I’m a **Mathematics** graduate from the University of Waterloo, passionate abo
 - I absolutely love martial arts and have recently participated in over 30 [grappling competitions](https://smoothcomp.com/en/profile/769884). 
 - I work part-time supporting people with mental disabilities at a non-profit organization called [L'Arche](https://larche.ca/).
 
-
-### Connect with me 
-[<img align="left" alt="Juan Bello | LinkedIn" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jbellogo.netlify.app" width="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<br />
-
 ### Languages and Tools
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="25" height="25" />
