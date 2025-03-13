@@ -8,7 +8,7 @@ I’m a **Mathematics** graduate from the University of Waterloo, passionate abo
 
 ### Now:
 - Currently developing a [Multiplayer Poker Game](https://github.com/jbellogo/Poker) as a full-stack project.  
-- Organizing my math notes with [Obsidian](https://obsidian.md/) in a [quartz website](https://jbellogo.github.io/Notes/). 
+- Organizing my math, software, and AI notes with [Obsidian](https://obsidian.md/) in a [quartz website](https://jbellogo.github.io/Notes/). 
 
 ### Experience
 - I interned at [Versa Networks](https://versa-networks.com/) as a cloud developer, working on webhook-based cybersecurity microservices for SaaS providers within an API-driven data protection cluster.  
