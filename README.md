@@ -7,10 +7,12 @@
 I’m a **Mathematics** graduate from the University of Waterloo, passionate about tackling challenging problems at the intersection of **software and mathematics**.  
 
 ### Now:
+- Working as a fulltime Amazon SDE.
 - Currently developing a [Multiplayer Poker Game](https://github.com/jbellogo/Poker) as a full-stack project.  
 - Organizing my math, software, and AI notes with [Obsidian](https://obsidian.md/) in a [quartz website](https://jbellogo.github.io/Notes/). 
 
 ### Experience
+- Currently working with fullstack and IaC technologies at Amazon.
 - I interned at [Versa Networks](https://versa-networks.com/) as a cloud developer, working on webhook-based cybersecurity microservices for SaaS providers within an API-driven data protection cluster.  
 - I also interned at [Catalyst Technologies](https://catalystreaction.com/) as a backend developer, contributing to the integration of blockchain technologies in agriculture through carbon rebate calculations based on environmentally friendly farming practices.  
 - I worked at [SYMX.AI](https://symx.ai/), leveraging AWS technologies and communication protocols to integrate IoT functionality into mining drills, enhancing operator training and improving mechanical efficiency through data-driven cloud analytics.  
@@ -18,7 +20,7 @@ I’m a **Mathematics** graduate from the University of Waterloo, passionate abo
 
 ### Fun Facts
 - I absolutely love martial arts and have recently participated in over 30 [grappling competitions](https://smoothcomp.com/en/profile/769884). 
-- I work part-time supporting people with mental disabilities at a non-profit organization called [L'Arche](https://larche.ca/).
+- I have worked supporting people with mental disabilities at a non-profit organization called [L'Arche](https://larche.ca/).
 
 ### Languages and Tools
 <p align="left">
